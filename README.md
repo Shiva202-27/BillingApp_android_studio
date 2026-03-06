@@ -1,5 +1,11 @@
 
-# 🏪 Laxmi Traders Billing App – DevOps Enabled Project
+#  Laxmi Traders Billing App - DevOps Enabled Project
+
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-green)
+
 
 ## 📌 Project Overview
 
