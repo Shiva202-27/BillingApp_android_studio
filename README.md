@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏪 Laxmi Traders Billing App – DevOps Enabled Project
 
 ## 📌 Project Overview
