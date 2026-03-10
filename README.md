@@ -92,9 +92,6 @@ Monitoring stack deployed using **Helm** on Kubernetes (Minikube).
 Components deployed:
 
 - Prometheus Server
-- Alertmanager
-- Node Exporter
-- Pushgateway
 - Grafana Dashboard
 
 ---
